@@ -1,0 +1,15 @@
+### Usage
+poweshell/bash
+python3 downloader.py
+
+### GUI Controls
+-paste the link of the vedio or playlist in the textarea.
+-Select the quality for your video.
+-Enter the download location in the input field for save to or select folder using browse button.
+-Click on download button.
+
+### To download audio only.
+-check the audio only chaeckbox.
+
+### Cancel Donload.
+-click on canccel download button to cancel the download.
