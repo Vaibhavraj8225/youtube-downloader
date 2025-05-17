@@ -17,6 +17,7 @@ Always respect the content creators and platforms.
 # YouTube Video Downloader
 
 A simple YouTube video downloader built using Python and `yt_dlp`. This tool allows users to download videos from YouTube in mp4 or audio formats and various resolutions.
+The downlaoder provides GUI Inerface along with progress bar and capable of downloading entire playlist at once.
 
 ## 🚀 Features
 
