@@ -1,3 +1,10 @@
+### Educational purpose only. (This script is to understand the functioning of yt_dlp video downlaoder dependency and functioning of video platforms.)
+### We do not promote any violation of guidlines. We respect the rules and policies of google and youtube and do not intend to violate it.
+
+---
+
+### ⚠️ 2. `DISCLAIMER.md`
+
 ```markdown
 # Disclaimer
 
@@ -12,29 +19,3 @@ By using this tool, you agree that:
 - The developer holds no liability for any damages or legal consequences arising from the use or misuse of this software.
 
 Always respect the content creators and platforms.
-
-
-# YouTube Video Downloader
-
-A simple YouTube video downloader built using Python and `yt_dlp`. This tool allows users to download videos from YouTube in mp4 or audio formats and various resolutions.
-
-## 🚀 Features
-
-- Download YouTube videos in various resolutions
-- Download audio-only or video-only streams
-- Progress bar and status updates
-
-## 📦 Requirements
-
-- Python 3.7+
-- pytube
-
-## 🔧 Installation
-
-```bash
-git clone https://github.com/Vaibhavraj8225/youtube-downloader.git
-cd youtube-downloader
-pip install -r requirements.txt
-
-## Usage
--pyhton3 downloader.py
